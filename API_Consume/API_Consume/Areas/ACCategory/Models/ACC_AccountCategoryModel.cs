@@ -28,9 +28,9 @@ namespace API_Consume.Areas.ACCategory.Models
         /*******************************************************************
 		 *	ADDEDIT FORM
 		 *******************************************************************/
+        [Display(Name = "Institute Code", Prompt = "Select Institute Code")]
 
         public int TotalRecords { get; set; }
-        [Display(Name = "Institute Code", Prompt = "Select Institute Code")]
         public string? InstituteCode { get; set; }
         public int PageOffset { get; set; }
         public int PageSize { get; set; }
