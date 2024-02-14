@@ -9,121 +9,123 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API_Consume
 build_property.RootNamespace = API_Consume
-build_property.ProjectDir = E:\3DC_02_AccountCategory\
+build_property.ProjectDir = F:\3DC_02_AccountCategory\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = E:\3DC_02_AccountCategory
+build_property.MSBuildProjectDirectory = F:\3DC_02_AccountCategory
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/ACC_AccountCategory/ACC_AccountCategoryAddEdit.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/ACC_AccountCategory/ACC_AccountCategoryAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xBQ0NfQWNjb3VudENhdGVnb3J5XEFDQ19BY2NvdW50Q2F0ZWdvcnlBZGRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/ACC_AccountCategory/Index.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/ACC_AccountCategory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xBQ0NfQWNjb3VudENhdGVnb3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/Shared/_ACC_AccountCategoryList.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/Shared/_ACC_AccountCategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xTaGFyZWRcX0FDQ19BY2NvdW50Q2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/Shared/_ACC_AccountCategoryListFilterForm.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/Shared/_ACC_AccountCategoryListFilterForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xTaGFyZWRcX0FDQ19BY2NvdW50Q2F0ZWdvcnlMaXN0RmlsdGVyRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/_ViewImports.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACCategory/Views/_ViewStart.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACCategory/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDYXRlZ29yeVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/ACC_AccountVoucher/ACC_AccountVoucherAddEdit.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/ACC_AccountVoucher/ACC_AccountVoucherAddEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXEFDQ19BY2NvdW50Vm91Y2hlclxBQ0NfQWNjb3VudFZvdWNoZXJBZGRFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/ACC_AccountVoucher/Index.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/ACC_AccountVoucher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXEFDQ19BY2NvdW50Vm91Y2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/Shared/_ACC_AccountVoucherList.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/Shared/_ACC_AccountVoucherList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXFNoYXJlZFxfQUNDX0FjY291bnRWb3VjaGVyTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/Shared/_ACC_AccountVoucherListFilterForm.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/Shared/_ACC_AccountVoucherListFilterForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXFNoYXJlZFxfQUNDX0FjY291bnRWb3VjaGVyTGlzdEZpbHRlckZvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/_ViewImports.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Areas/ACC/Views/_ViewStart.cshtml]
+[F:/3DC_02_AccountCategory/Areas/ACC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQUNDXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Error/Index.cshtml]
+[F:/3DC_02_AccountCategory/Views/Error/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Error/_ucShowInfo.cshtml]
+[F:/3DC_02_AccountCategory/Views/Error/_ucShowInfo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcX3VjU2hvd0luZm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Home/Index.cshtml]
+[F:/3DC_02_AccountCategory/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Home/Privacy.cshtml]
+[F:/3DC_02_AccountCategory/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/Error.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_Footer.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_GeneratePager.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_GeneratePager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9HZW5lcmF0ZVBhZ2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_Header.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_LoginLayout.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_LoginLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_Notification.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_Notification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_Sidebar.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_SidebarFooter.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_SidebarFooter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyRm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/_ViewImports.cshtml]
+[F:/3DC_02_AccountCategory/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/_ViewStart.cshtml]
+[F:/3DC_02_AccountCategory/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/3DC_02_AccountCategory/Views/Shared/_Layout.cshtml]
+[F:/3DC_02_AccountCategory/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3dajn4ulgi
