@@ -174,13 +174,17 @@ namespace API_Consume.Areas.ACCategory.Controllers
             {
                 #region Validate Field
                 string errorMsg = "";
-                if (modelACC_AccountCategory.AccountCategoryID == null)
-                {
-                    errorMsg += "<li>Select Account ID</li>";
-                }
+                //if (modelACC_AccountCategory.AccountCategoryID == null)
+                //{
+                //    errorMsg += "<li>Select Account ID</li>";
+                //}
                 if (modelACC_AccountCategory.AccountCategoryName == null)
                 {
                     errorMsg += "<li>Enter AccountCategory Name</li>";
+                }
+                if (modelACC_AccountCategory.Remarks == null)
+                {
+                    errorMsg += "<li>Enter Remarks</li>";
                 }
                 if (errorMsg != "")
                 {

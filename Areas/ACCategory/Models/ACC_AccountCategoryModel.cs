@@ -47,7 +47,7 @@ namespace API_Consume.Areas.ACCategory.Models
     }
     public class ACC_AccountCategoryModelList
     {
-        public List<ACC_AccountCategoryModel> ACC_AccountVoucherModelList { get; set; }
+        public List<ACC_AccountCategoryModel> ACC_AcountCategoryModelList { get; set; }
     }
 
     // ModelName: LOC_CityModel
