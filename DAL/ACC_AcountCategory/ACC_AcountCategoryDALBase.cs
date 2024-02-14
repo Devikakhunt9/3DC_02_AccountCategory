@@ -247,7 +247,7 @@ namespace API_Consume.DAL
     public partial class dbo_PR_ACC_AccountCategory_SelectAll_Result : DALHelper
         {
         #region Properties
-        public int TotalRecords { get; set; }
+        public int? TotalRecords { get; set; }
          
         public int AccountCategoryID { get; set; }
         public string? AccountCategoryName { get; set; }

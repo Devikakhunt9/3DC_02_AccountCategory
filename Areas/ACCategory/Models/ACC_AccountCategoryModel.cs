@@ -11,8 +11,10 @@ namespace API_Consume.Areas.ACCategory.Models
         [Display(Name = "Institute Code", Prompt = "Select Institute Code")]
         public string? F_InstituteCode { get; set; }
 		public int F_PageOffset { get; set; } = 0;
-		public int? F_PageNo { get; set; }
-		public int? F_PageSize { get; set; }
+        [Display(Name = "F_PageNo")]
+        public int? F_PageNo { get; set; }
+        [Display(Name = "F_PageSize")]
+        public int? F_PageSize { get; set; }
         public int F_TotalRecords { get; set; }
         public int F_AccountCategoryID { get; set; }
         [Display(Name = "Account Category", Prompt = "Select Account Category Name")]
